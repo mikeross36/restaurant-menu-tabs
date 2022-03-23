@@ -1,0 +1,40 @@
+[
+    { 
+        "category":"separator", 
+        "description":"STARTERS" 
+    },
+    { 
+        "category":"food", 
+		"name":"CHICKEN CHILI SALAD", 
+        "description":"Mixed salad, fried sliced chicken marinated with honey and chili", 
+        "price":"25.00" 
+    },
+    { 
+        "category":"food", 
+        "name":"CROSTINI", 
+        "description":"With diced tomatoes, onions, garlic and basil", 
+        "price":"12.00" 
+    },
+    { 
+        "category":"food", 
+        "name":"NACHOS", 
+        "description":"With 2 dips of your choice, gratinated with cheese and sliced chicken", 
+        "price":"10.50" 
+    },
+    { 
+        "category":"separator", 
+        "description":"SALADS" 
+    },
+    { 
+        "category":"food", 
+        "name":"FENNEL-APPLE SALAD", 
+        "description":"With rocket, feta, cranberries and pumpkin seeds", 
+        "price":"15.00" 
+    },
+    { 
+        "category":"food", 
+        "name":"CAESAR`S SALAD", 
+        "description":"Lettuce with fried baconstrips, croûtons, Grana Padano, egg and Caesar Dressing", 
+        "price":"16.00" 
+    } 
+]

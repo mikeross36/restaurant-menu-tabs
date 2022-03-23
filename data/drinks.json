@@ -1,0 +1,145 @@
+[
+    { 
+        "category":"separator", 
+        "description":"WATER & SODA" 
+    },
+    { 
+        "category":"drink", 
+        "name":"Sparkling water", 
+        "description":"5dl", "price":"4.50" 
+    },
+    { 
+        "category":"drink", 
+        "name":"Still water", 
+        "description":"5dl", 
+        "price":"4.50" 
+    },
+    { 
+        "category":"drink", 
+        "name":"Soda", 
+        "description":"3dl", 
+        "price":"5.50" 
+    },
+    { 
+        "category":"separator", 
+        "description":"BEER" 
+    },
+    { 
+        "category":"drink", 
+        "name":"Badener gold", 
+        "description":"3dl", 
+        "price":"4.80" 
+    },
+    { 
+        "category":"drink", 
+        "name":"Badener gold", 
+        "description":"5dl", 
+        "price":"7.00" 
+    },
+    { 
+        "category":"drink", 
+        "name":"Quollfrisch", 
+        "description":"5dl", 
+        "price":"7.50" 
+    },
+    { 
+        "category":"drink", 
+        "name":"Bier Paol 02", 
+        "description":"3.3dl", 
+        "price":"6.00" 
+    },
+    { 
+        "category":"separator", 
+        "description":"RED WINE" 
+    },
+    { 
+        "category":"drink", 
+        "name":"Merlot de Ticino", 
+        "description":"1dl", 
+        "price":"7.00" 
+    },
+    { 
+        "category":"drink", 
+        "name":"Bolgheri rosso", 
+        "description":"1dl", 
+        "price":"8.50" 
+    },
+    { 
+        "category":"drink", 
+        "name":"Nero djavol Igt", 
+        "description":"1dl", 
+        "price":"7.50" 
+    },
+    { 
+        "category":"drink", 
+        "name":"Monte Castaneiro", 
+        "description":"1dl", 
+        "price":"8.00" 
+    },
+    { 
+        "category":"separator", 
+        "description":"WHITE WINE & CHAMPAGNE" 
+    },
+    { 
+        "category":"drink", 
+        "name":"St. Saphorin", 
+        "description":"1dl", 
+        "price":"7.00" 
+    },
+    { 
+        "category":"drink", 
+        "name":"Basilicata bianco", 
+        "description":"1dl", 
+        "price":"7.50" 
+    },
+    { 
+        "category":"drink", 
+        "name":"Tattinger Brut", 
+        "description":"7.5dl", 
+        "price":"91.00" 
+    },
+    { 
+        "category":"separator", 
+        "description":"WHISKY" 
+    },
+    { 
+        "category":"drink", 
+        "name":"Oban 14 years old", 
+        "description":"4cl", 
+        "price":"13.50" 
+    },
+    { 
+        "category":"drink", 
+        "name":"Lagavulin 16 years old", 
+        "description":"4cl", 
+        "price":"15.00" 
+    },
+    { 
+        "category":"drink", 
+        "name":"Macallen amber", 
+        "description":"4cl", 
+        "price":"16.00" 
+    },
+    { 
+        "category":"separator", 
+        "description":"HOT DRINKS" 
+    },
+    { 
+        "category":"drink", 
+        "name":"Espresso", 
+        "description":"", 
+        "price":"4.50" 
+    },
+    { 
+        "category":"drink", 
+        "name":"Cafe late", 
+        "description":"", 
+        "price":"4.50" 
+    },
+    { 
+        "category":"drink", 
+        "name":"Tea", 
+        "description":"", 
+        "price":"5.00" 
+    } 
+]

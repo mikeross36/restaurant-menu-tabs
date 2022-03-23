@@ -1,0 +1,41 @@
+[
+    { 
+        "category":"separator", 
+        "description":"SWEETS" 
+    },
+    { 
+        "category":"food", 
+        "name":"APPLE PIE", 
+        "description":"With a crispy crust presented with whipped cream, vanilla ice-cream or cheddar cheese", 
+        "price":"22.00" 
+    },
+    { 
+        "category":"food", 
+        "name":"PAKHLAVA", 
+        "description":"The thinnest slices with the filling with minced nuts topped up with syrup or honey", 
+        "price":"12.00" 
+    },
+    { 
+        "category":"food", 
+        "name":"CREAM BRULEE", 
+        "description":"A creamy pastry a thin, crisp caramel layer", 
+        "price":"15.00" 
+    },
+    { 
+        "category":"food", 
+        "name":"CHOCOLATE MOUSSE", 
+        "description":"With star anise, a pecan brownie and salty caramel sauce", 
+        "price":"12.00" 
+    },
+    { 
+        "category":"food", 
+        "name":"TIRAMISU", 
+        "description":"Rolled rhubarb pistachio with vanilla strawberry amaretto sauce", 
+        "price":"13.50" 
+    },
+    {   "category":"food", 
+        "name":"FRUIT SALAD", 
+        "description":"Exotic fruits with tapioca pearls mango sorbet and homemade coconut liqueur", 
+        "price":"10.50" 
+    } 
+]
